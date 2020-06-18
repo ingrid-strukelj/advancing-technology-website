@@ -1,0 +1,336 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+    margin: 0;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    line-height: 1.4;
+}
+
+.title {
+    width: 100%;
+    height: 500px;
+    background-image: url("images/images/conference-hero.jpg");
+    text-align: center;
+    color: #fff;
+    margin: 0px;
+}
+
+.layer {
+    width: 100%;
+    height: 500px;
+    background-color: rgba(73,88,103, 0.7);
+}
+
+.computer {
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    border-radius: 50%;
+    position: relative;
+    border: 5px solid #495867;
+    box-shadow: 0 0 0 10px #fff;
+    
+}
+
+.text {
+    padding: 10px;
+    text-align: center;
+    z-index: 10;
+}
+
+.expect {
+    width: 100%;
+    height: 150px;
+    background-color: #bdd5ea;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    vertical-align: middle;
+    border-bottom: 1px dashed black;
+}
+
+.what {
+    margin-top: 0px;
+}
+
+.main-content {
+    background-image: url("images/images/swirl.png");
+}
+
+.inspire {
+    overflow: auto;
+}
+
+.img-glasses {
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.limits {
+    margin-top: 30px;
+    text-align: justified;
+    padding-top: 100px;
+    padding-left: 530px;
+    padding-right: 50px;
+}
+
+.block2 {
+    margin-bottom: 30px;
+    overflow: auto;
+}
+
+.girls {
+    float: right;
+    margin-top:30px;
+    margin-right: 100px;
+}
+
+.encourage {
+    margin-top: 30px;
+    text-align: justified;
+    padding-top: 150px;
+    padding-right: 530px;
+    padding-left: 50px;
+}
+
+.block3 {
+    overflow: auto;
+    margin-bottom: 50px;
+}
+
+.img-orlando {
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.orlando {
+    margin-top: 30px;
+    text-align: justified;
+    padding-top: 100px;
+    padding-left: 530px;
+    padding-right: 50px;
+}
+
+.packages {
+    width: 100%;
+    height: 450px;
+    background-color: #bdd5ea;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    vertical-align: middle;
+    border-bottom: 1px dashed black;
+    border-top: 1px dashed black;
+}
+
+.spot {
+    text-align: center;
+}
+
+.align-center {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+th, td {
+    margin-bottom: 5px;
+}
+
+th {
+    background-color: #495867;
+    color: #fff;
+    padding: 30px;
+
+}
+
+td {
+    background-color: #fff;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+td a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #fe5f55;
+    height: 10px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+
+.speakers {
+    margin-left: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.h-day-1, .h-day-2 {
+    text-align: center;
+}
+
+.day-1 {
+    width: 45%;
+    float: left;
+    margin-left: 30px;
+    border: 1px solid #cfcfd0;
+    box-shadow: 5px 5px 4px #bebebf;
+    padding-left: 20px;
+    background-image: url("images/images/swirl.png")
+
+
+}
+
+.day-1-10, .day-1-1, .day-1-4, .day-1-7 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    overflow: auto;
+}
+
+.img-1, .img-2, .img-3, .img-4 {
+    float: left;
+}
+
+.speaker-1 {
+    padding-left: 220px; 
+    padding-right: 20px;
+}
+
+.day-2 {
+    float: right;
+    width: 45%;
+    border: 1px solid #cfcfd0;
+    box-shadow: 5px 5px 4px #bebebf;
+    margin-right: 30px;
+    padding-left: 20px;
+    background-image: url("images/images/swirl.png");
+
+}
+
+.day-2-10, .day-2-1, .day-2-4, .day-2-7 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    overflow: auto;
+}
+
+.speaker-2 {
+    padding-left: 230px; 
+    padding-right: 20px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+img:hover {
+    border: 1px solid black;
+}
+
+.img-5, .img-6, .img-7, .img-8 {
+    float: left;
+}
+
+.wait {
+    text-align: center;
+    background-color: #bdd5ea;
+    border-top: 1px dashed black;
+    margin-top: 1150px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+ .if {
+    padding-bottom: 20px;
+}
+
+p a {
+    width: 50px;
+    height: 30px;
+    padding: 15px;
+    color: #fff;
+    background-color: #fe5f55;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.countdown {
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    padding-top: 30px;
+
+}
+
+.footer {
+    background-color: #495867;
+    height: 50px;
+}
+
+.footer p {
+    text-align: center;
+    padding-top: 15px;
+    color: #fff;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+/*CSS for Tickets page*/
+
+#tickets-body {
+    background-image: none;
+}
+
+.tickets {
+    text-align: center;
+    margin: 50px;
+}
+
+form {
+    border: 1px solid #cfcfd0;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-image: url("images/images/swirl.png")
+
+}
+
+.name, .email {
+    display: inline-block;
+    margin: 10px;
+    height: 40px;
+    width: 200px;
+    border: 1px solid #cfcfd0;
+}
+
+::placeholder {
+    text-transform: uppercase;
+    padding: 10px 8px;
+    font-size: 18px;
+}
+
+.select {
+    margin: 20px;
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    color: #fff;
+    background-color: #fe5f55;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px 15px; 
+    border: 0 none;
+}
